@@ -12,7 +12,7 @@
 #         var <<  "#{string}, "
 #       else
 #         var << "and #{string}"
-# 
+#
 # end
 # end
 #   end
